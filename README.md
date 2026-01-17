@@ -20,15 +20,6 @@
 
 ---
 
-## Project Structure
-
-.
-├── app.py # Streamlit UI
-├── rag_utility.py # Ingestion + retrieval + QA logic
-├── uploaded_pdfs/ # Saved PDFs (created at runtime)
-└── doc_vectorstore/ # Chroma persistent DB (created at runtime)
--
-
 ## Setup
 
 1) Clone Repo
